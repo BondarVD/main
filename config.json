@@ -1,0 +1,8 @@
+{
+  "char_limit": 10000,
+  "file": "C:/Users/vdmrake/PycharmProjects/PythonProject3/text.txt",
+  "language": "uk",
+  "output": "file",
+  "sentence_limit": 100,
+  "word_limit": 2000
+}
